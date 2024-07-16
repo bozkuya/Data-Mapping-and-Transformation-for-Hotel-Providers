@@ -4,22 +4,6 @@
 
 This project is a Data Migration System designed to integrate hotel data from multiple providers into a unified structure. The system reads raw data in JSON format, processes it, and uploads it to a relational database for further analysis. The system is implemented using Object-Oriented Programming (OOP) principles to create modular, reusable components.
 
-## Project Structure
-
-data_migration_system/
-├── README.md
-│   ├── init.py
-│   ├── classes.py
-│   ├── data_migration.py
-│   ├── database.py
-│   ├── error_handling.py
-├── tests/
-│   ├── init.py
-│   ├── test_data_migration.py
-│   ├── test_classes.py
-│   ├── test_database.py
-├── example_hotel_data.json
-├── main.py
 
 ## Setup
 
